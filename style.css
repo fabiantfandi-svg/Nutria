@@ -31,3 +31,9 @@
 .pricing:hover{
     transform: scale(1.05);
 }
+.depredadores{
+    border: none;
+    border-left: 4px solid blueviolet;
+    height: 100%;
+    background-color: secodary;
+}
